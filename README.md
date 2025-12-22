@@ -3,3 +3,7 @@ Hi, my name is Samuel Adeidgba, a Full-Stack Engineer with 3+ years of experienc
 
 [![wakatime](https://wakatime.com/badge/user/samuel_adedigba.svg)](https://wakatime.com/@samuel_adedigba)
 
+My Recent Activity Stats
+
+
+[![CommitActivity](https://commitdiary-web.vercel.app/api/badge/samueladedigba83/5ae0c77c6b25)](https://commitdiary-web.vercel.app/s/samueladedigba83/5ae0c77c6b25)

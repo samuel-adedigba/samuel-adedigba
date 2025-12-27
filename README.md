@@ -6,4 +6,4 @@ Hi, my name is Samuel Adeidgba, a Full-Stack Engineer with 3+ years of experienc
 My Recent Activity Stats
 
 
-[![CommitActivity](https://commitdiary-web.vercel.app/api/badge/samueladedigba83/5ae0c77c6b25)](https://commitdiary-web.vercel.app/s/samueladedigba83/5ae0c77c6b25)
+[![CommitActivity](https://commitdiary-web.vercel.app/api/badge/samueladedigba83/05e779cfcb05)](https://commitdiary-web.vercel.app/s/samueladedigba83/05e779cfcb05)
